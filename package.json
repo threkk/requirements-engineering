@@ -36,9 +36,9 @@
   },
   "homepage": "https://github.com/threkk/requirements-engineering#readme",
   "scripts": {
-    "build": "browserify -t [ babelify --presets [ es2015 react ] ] src/index.js -o docs/bundle.js",
-    "build:prod": "NODE_ENV=production browserify -t [ babelify --presets [ es2015 react ] ] src/index.js | uglifyjs > docs/bundle.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build:web": "browserify -t [ babelify --presets [ es2015 react ] ] src/index.js -o docs/bundle.js",
+    "build:config":"./bin/cli.js",
+    "build:prod": "./bin/cli.js && NODE_ENV=production browserify -t [ babelify --presets [ es2015 react ] ] src/index.js | uglifyjs > docs/bundle.js"
   },
   "dependencies": {
     "react": "^15.3.1",
