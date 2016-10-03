@@ -1,8 +1,10 @@
+*All the artifacts produced this week can be found [here](https://drive.google.com/open?id=0BwtrwJSlEjcuVzNDQ3VNNHQtbFU)*
+
 # Interviews
 
 The first assignment of the course has been to interview different students about their opinion about the current *Blackboard* used in the university.  The main objective of the interviews was to find which is the general opinion about the system and also to make us getting started with interviewing as data acquisition methodology.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WWYm2eV6Nis" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/WWYm2eV6Nis" frameborder="0" allowfullscreen></iframe></div>
 
 We interviewed three different students from three different majors who have been using *Blackboard* for a certain period of time. The answers we received were quite uniform and all of them agreed in most of the main ideas:
 

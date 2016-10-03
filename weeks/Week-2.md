@@ -1,3 +1,5 @@
+*All the artifacts produced this week can be found [here](https://drive.google.com/open?id=0B7cj9zp41Y28SjZfSnRnTm1JOUU)*
+
 Interviews
 ===
 
@@ -5,7 +7,7 @@ For this week assignment, as our group increased in size, we decided to conduct 
 
 One of the interviews was conducted using the methodology of "Apprenticing with the customer". The rest of them were done with a list of questions prepared. This has been one of the improvements from last week as we aimed to be able to answer the question "*what tools do we need to support the learning process within courses*".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KkBGrKtXHTs" frameborder="0" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/KkBGrKtXHTs" frameborder="0" allowfullscreen></iframe></div>
 
 We extracted some conclusions from it:
 

@@ -1,3 +1,5 @@
+*All the artifacts produced this week can be found [here](https://drive.google.com/open?id=0B7cj9zp41Y28ODJ0TGVYY3gyVzg)*
+
 Advisory report
 ===
 
